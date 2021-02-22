@@ -1,4 +1,4 @@
 # redux-basics
 
-## Reduc Flow
-![](redux flow.png)
+## Redux Flow
+![alt text](redux flow.png)
